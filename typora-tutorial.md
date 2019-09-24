@@ -129,14 +129,37 @@ print("Hello World")
 ​```
 ```
 ### LaTeX
-$$
-\lim _{x\to c}f(x)=L
-$$
+
+![LaTeX](images/LaTeX.gif)
+
 ```markdown
 $$
-\lim _{x\to c}f(x)=L
+\lim_{x\to c}f(x)=L
 $$
 ```
+### 局部搜索
+
+搜索范围：当前显示的`markdown`文档的内容
+
+1. <kbd>⌘ Command</kbd>+<kbd>f</kbd> (`f`ind首字母)
+2. 输入关键词
+3. <kbd>⮐ Enter</kbd> 跳到下一处
+
+![search-in-current-file](images/search-in-current-file.gif)
+
+### 全局搜索
+
+![search-scope](images/search-scope.png)
+
+搜索范围：**工作目录**下所有`markdown`文档的内容
+
+1. 定义**工作目录**
+
+![define-working-directory](images/define-working-directory.gif)
+
+2. 搜索
+
+![search-in-working-directory](images/search-in-working-directory.gif)
 # 更多
 
 > 更多的功能和快捷键请参考**菜单栏**(见下图)，如**Strong**操作对应的快捷键为<kbd>⌘ Command</kbd>+<kbd>b</kbd>。
