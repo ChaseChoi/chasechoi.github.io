@@ -143,7 +143,7 @@ $$
 
 1. <kbd>⌘ Command</kbd>+<kbd>f</kbd> (`f`ind首字母)
 2. 输入关键词
-3. <kbd>⮐ Enter</kbd> 跳到下一处
+3. <kbd>Enter</kbd> 跳到下一处
 
 ![search-in-current-file](images/search-in-current-file.gif)
 
