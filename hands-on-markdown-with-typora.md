@@ -17,7 +17,7 @@ title: Hands on Markdown with Typora
 
 # 教程
 
-- 下载地址: https://typora.io/
+- 下载地址: [https://typora.io/](https://typora.io/)
 
 - Windows的<kbd>Ctrl</kbd>等价于macOS的<kbd>⌘ Command</kbd>，请根据平台自行替换
 - 取消上一次操作(i.e. Undo)：<kbd>⌘ Command</kbd>+<kbd>z</kbd>
