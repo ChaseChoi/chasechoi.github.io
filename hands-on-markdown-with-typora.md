@@ -1,3 +1,6 @@
+---
+title: Hands on Markdown with Typora
+---
 # 前言
 
 1. 为了最大程度地简化**写作**过程，势必要将排版类工作从中分离，交由他人处理。
