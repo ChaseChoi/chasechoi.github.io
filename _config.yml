@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: Welcome to ChaseChoi's homepage!
 description: I'm happy to share ideas with you!
+remote_theme: jekyll/minima
